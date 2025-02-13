@@ -1,15 +1,9 @@
 ## Precision Agriculture Project
-
-# Goal: Develop a full stack mobile application to integrate wirelessly sensed data into site specific degree day models.
-
-- Researched agriculture extension degree day model.
-- Developing front-end and back-end React Native mobile application.
-- Developing React Native / MongoDB integration for data flow.
-
+# SwiftUI remake
 
 ## Current UI of App
 
-<img src="[https://github.com/user-attachments/assets/53667119-c92b-4856-8b83-4199e1c021b8]" width="250" height="550" title="iPhone 16 Pro Screenshot" alt="iPhone 16 Pro Screenshot"/>
+<img src="[https://github.com/user-attachments/assets/7df57e06-8d43-4d1c-91e3-8b94606fa4e3]" width="250" height="550" title="iPhone 16 Pro Screenshot" alt="iPhone 16 Pro Screenshot"/>
 
 
 # Front-End tech used
