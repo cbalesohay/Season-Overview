@@ -3,7 +3,7 @@
 
 ## Current UI of App
 
-<img src="[https://github.com/user-attachments/assets/7df57e06-8d43-4d1c-91e3-8b94606fa4e3]" width="250" height="550" title="iPhone 16 Pro Screenshot" alt="iPhone 16 Pro Screenshot"/>
+<img src="https://github.com/user-attachments/assets/7df57e06-8d43-4d1c-91e3-8b94606fa4e3" width="250" height="550" title="iPhone 16 Pro Screenshot" alt="iPhone 16 Pro Screenshot"/>
 
 
 # Front-End tech used
